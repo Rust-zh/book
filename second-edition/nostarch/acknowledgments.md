@@ -24,7 +24,7 @@ Bill Pollock, Liz Chadwick, and Janelle Ludowise, for improving this book and
 bringing it to print.
 -->
 
-我们特别感谢在线阅读了本书早期版本的每一个人，他们提供了大量的反馈，问题报告和拉取请求（Pull Requests）。特别感谢 Eduard-Mihai Burtescu 和 Alex Crichton 提供的技术审校以及 Karen Rustad Tölva 设计的封面。感谢我们在 No Starch 的团队，包括 Bill Pollock、Liz Chadwick 和 Janelle Ludowise，他们改进了本书并将它付梓。
+我们特别感谢在线阅读了本书早期版本的每一个人，他们提供了大量的反馈，问题报告和合并请求（Pull Requests）。特别感谢 Eduard-Mihai Burtescu 和 Alex Crichton 提供的技术审校以及 Karen Rustad Tölva 设计的封面。感谢我们在 No Starch 的团队，包括 Bill Pollock、Liz Chadwick 和 Janelle Ludowise，他们改进了本书并将它付梓。
 
 <!--
 Steve would like to thank Carol for being an amazing co-author. Without her,
