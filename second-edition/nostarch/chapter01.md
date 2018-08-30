@@ -242,7 +242,7 @@ who can help you out. Other great resources include the Users forum at
 *http://stackoverflow.com/questions/tagged/rust/*.
 -->
 
-如果出现这些内容，就说明 Rust 安装成功了！如果你并没有看到这些信息，并且使用的是 Windows，请检查 Rust 是否位于 `%PATH%` 系统变量中。如果一切正确但 Rust 仍不能使用，还有许多地方可以求助。最简单的是通过 *irc.mozilla.org* 上的 #rust IRC 频道，可以用 Mibbit（*http://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust/*）来访问它。然后就能和其他 Rustacean（Rust 用户的称号，有自嘲意味）聊天并寻求帮助。其它给力的资源包括用户论坛（*https://users.rust-lang.org/*）和 Stack Overflow（*http://stackoverflow.com/questions/tagged/rust/*）。
+如果出现这些内容，就说明 Rust 安装成功了！如果你并没有看到这些信息，并且使用的是 Windows，请检查 Rust 是否位于 `%PATH%` 系统变量中。如果一切正确但 Rust 仍不能使用，还有许多地方可以求助。最简单的是通过 *irc.mozilla.org* 上的 #rust IRC 频道，可以用 Mibbit（ *http://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust/* ）来访问它。然后就能和其他 Rustacean（Rust 用户的称号，有自嘲意味）聊天并寻求帮助。其它给力的资源包括用户论坛（ *https://users.rust-lang.org/* ）和 Stack Overflow（ *http://stackoverflow.com/questions/tagged/rust/* ）。
 
 <!--
 ### Local Documentation
